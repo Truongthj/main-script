@@ -10,6 +10,6 @@ local KillingCheats = PhantomForcesWindow:NewSection("Auto Farm")
 PhantomForcesWindow:NewSection("By Truongthj")
 
 KillingCheats:CreateButton("Activate", function()
-    local scriptToExecute = game:HttpGet("https://pastebin.com/raw/VVZvF2rA")
+    local scriptToExecute = game:HttpGet("https://raw.githubusercontent.com/Truongthj/west/refs/heads/main/source")
     loadstring(scriptToExecute)()
 end)

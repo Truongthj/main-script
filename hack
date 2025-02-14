@@ -1,6 +1,6 @@
 -- Script made by Truongthj
 
-local Library = loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/Truongthj/west/refs/heads/main/source"))()"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))()
 
 local PhantomForcesWindow = Library:NewWindow("Westbound")
 
